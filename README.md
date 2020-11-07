@@ -12,9 +12,15 @@
   - For example => myFunction("clarusway", "a") Output => 2⚠  
   - Please write your own code block to improve your algorithm skills 
   <br> 
+
+   ``` Check It ``` ➡ [SampleProject]('https://code-code-team.github.io/SPRINT5--LETTER-IN-STRING/') 
+  
   <center>🔥 Happy Coding!🔥 </center>
 
+  ---
   ### Sample Function in Js
+  ---
+  
   ```bash
   function findLetter(text, let){
     console.log(text,let)
@@ -28,3 +34,4 @@
     return result
 
   ```
+  ---

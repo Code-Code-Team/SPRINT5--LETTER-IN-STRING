@@ -1,4 +1,30 @@
 # Sprint 5
 
 
-  [Sprint-5 Assignment](https://github.com/clarusway/cw-fs-workshop/blob/master/sprint-evaluation/sprint/sprint5/assignment.pdf)
+
+  ## Letter Count In A Given String
+  This study aims to develop algoritm skills
+
+
+  ## Descriptiom
+  - Write code block that take string and letter(myFunction(myString, meyLetter)), and return the number of specific letter in the string.
+  
+  - For example => myFunction("clarusway", "a") Output => 2⚠  
+  - Please write your own code block to improve your algorithm skills 
+  <br> 
+  <center>🔥 Happy Coding!🔥 </center>
+
+  ## Sample Function in Js
+  ```bash
+  function findLetter(text, let){
+    console.log(text,let)
+    let count = 0
+    for(let i = 0 ; i < text.length ; i++){
+        if(text.toLowerCase()[i] == let.toLowerCase()){
+            count++
+        } 
+    }
+    const result = `${text} kelimesinde ${let} harfi ${count} kez geçmektedir.`
+    return result
+
+  ```

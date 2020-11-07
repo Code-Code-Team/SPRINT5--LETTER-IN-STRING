@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: black;
+    background-color: rgb(44, 36, 36);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,4 +18,14 @@ body{
     min-width: 40%;
     background-color: rgba(0, 0, 0, 0.5);
 
+}
+button{
+  background-color: bisque;
+  ;
+}
+#result{
+  margin : 10;
+  padding : 0;
+  background-color: white;
+  color : rgba(0, 0, 0, 0.356)
 }

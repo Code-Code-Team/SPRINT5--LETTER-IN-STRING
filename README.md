@@ -14,7 +14,7 @@
   <br> 
   <center>🔥 Happy Coding!🔥 </center>
 
-  ## Sample Function in Js
+  ### Sample Function in Js
   ```bash
   function findLetter(text, let){
     console.log(text,let)

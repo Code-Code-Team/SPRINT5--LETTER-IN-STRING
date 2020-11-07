@@ -13,7 +13,7 @@
   - Please write your own code block to improve your algorithm skills 
   <br> 
 
-   ``` Check It  ➡  [SampleProject]('https://code-code-team.github.io/SPRINT5--LETTER-IN-STRING/') ``` 
+   ``` Check It```   ```➡```  [SampleProject]('https://code-code-team.github.io/SPRINT5--LETTER-IN-STRING/')
   
   <center>🔥 Happy Coding!🔥 </center>
 

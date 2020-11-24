@@ -1,4 +1,5 @@
-# Sprint 5
+# Link 
+ ``` Check It```   ```➡```!  <a href='https://code-code-team.github.io/SPRINT5--LETTER-IN-STRING/'>Sample Link</a>
 
 
 
@@ -13,7 +14,7 @@
   - Please write your own code block to improve your algorithm skills 
   <br> 
 
-   ``` Check It```   ```➡```!  <a href='https://code-code-team.github.io/SPRINT5--LETTER-IN-STRING/'>Sample Link</a>
+  
   
   <center>🔥 Happy Coding!🔥 </center>
 
